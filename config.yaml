@@ -1,0 +1,13 @@
+
+root_dir: "./datasets"
+
+batch_size: 64
+learning_rate: 0.02
+epochs: 300
+warm_up: 30
+num_classes: 100
+p_threshold: 0.5
+alpha: 4.0
+lambda_u: 25.0
+num_workers: 5
+temperature: 0.5

@@ -1,0 +1,2 @@
+Total Training Time: 10086.03 seconds
+Final Inference Time: 16.51 seconds

@@ -1,0 +1,3 @@
+Total training time: 99965.90 seconds
+Peak GPU memory usage: 2.76 GB
+Inference time: 28.76 seconds
